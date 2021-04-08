@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1617893704 source:c:\users\vanes\desktop\dev\projects\guitarsforrent\main.c
+	"interface.h"
+
+1617893693 c:\users\vanes\desktop\dev\projects\guitarsforrent\interface.h
+
+1617893713 source:c:\users\vanes\desktop\dev\projects\guitarsforrent\menu.c
+
+1617895473 source:c:\users\vanes\desktop\dev\projects\guitarsforrent\interface.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"menu.h"
+
+1617893721 c:\users\vanes\desktop\dev\projects\guitarsforrent\menu.h
+
