@@ -14,3 +14,65 @@
 
 1617893721 c:\users\vanes\desktop\dev\projects\guitarsforrent\menu.h
 
+1618266904 source:c:\users\vanes\desktop\dev\projects\guitarsforrent\guitarsforrent\interface.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"menu.h"
+	"storeStruct.h"
+	"guitar.h"
+	"utils.h"
+	"client.h"
+
+1617895523 c:\users\vanes\desktop\dev\projects\guitarsforrent\guitarsforrent\menu.h
+
+1617999361 source:c:\users\vanes\desktop\dev\projects\guitarsforrent\guitarsforrent\main.c
+	<stdio.h>
+	<stdlib.h>
+	"interface.h"
+
+1617895512 c:\users\vanes\desktop\dev\projects\guitarsforrent\guitarsforrent\interface.h
+
+1617998654 source:c:\users\vanes\desktop\dev\projects\guitarsforrent\guitarsforrent\menu.c
+	<stdio.h>
+	<stdlib.h>
+
+1618256983 source:c:\users\vanes\desktop\dev\projects\guitarsforrent\guitarsforrent\guitar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"storeStruct.h"
+
+1618266710 c:\users\vanes\desktop\dev\projects\guitarsforrent\guitarsforrent\storestruct.h
+
+1618267173 source:c:\users\vanes\desktop\dev\projects\guitarsforrent\guitarsforrent\utils.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"storeStruct.h"
+
+1618253347 c:\users\vanes\desktop\dev\projects\guitarsforrent\guitarsforrent\guitar.h
+	<stdbool.h>
+
+1618248149 c:\users\vanes\desktop\dev\projects\guitarsforrent\guitarsforrent\utils.h
+
+1618267195 source:c:\users\vanes\desktop\dev\projects\guitarsforrent\guitarsforrent\client.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"storeStruct.h"
+	"utils.h"
+
+1618080481 c:\users\vanes\desktop\dev\projects\guitarsforrent\guitarsforrent\client.h
+
+1618335887 source:c:\users\vanes\desktop\dev\projects\guitarsforrent\guitarsforrent\rental.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"storeStruct.h"
+	"utils.h"
+	"client.h"
+

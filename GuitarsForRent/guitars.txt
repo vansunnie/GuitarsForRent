@@ -1,0 +1,8 @@
+1	10	100	0	Lucille
+2	10	60	2	Bill
+3	20	100	1	test1
+4	100	500	0	Betty Jean
+5	25	350	1	Rocky
+6	25	400	0	Julian
+7	40	400	0	test2
+8	50	400	1	Louis

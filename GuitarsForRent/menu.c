@@ -1,3 +1,6 @@
+#include <stdio.h>
+#include <stdlib.h>
+
 void showMenu1() {
     printf("\tGUIARS FOR RENT\n\n");
     printf("1.Guitars;\n");
