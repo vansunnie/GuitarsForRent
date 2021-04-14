@@ -1,5 +1,5 @@
 # Guitars For Rent
-Practical assignment for the Programming class (2017/2018) using CodeBlocks(IDE).
+Practical assignment for the Programming class (2017/2018) using CodeBlocks(IDE) and C language.
 
 This project was developed with a text user interface.
 
