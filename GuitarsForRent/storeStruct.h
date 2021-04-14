@@ -4,7 +4,7 @@
 #define SIZE 50
 //#define currentYear 2021
 #define MAXRENTALDAYS 7        //max number of days that clients can rent a guitar
-#define MAXRENTALS 3      //max number of rentals 1 client can have
+#define MAXRENTALS 5      //max number of rentals 1 client can have
 #define MAXDAMAGE 3           //max number of guitars that a client can deliver damaged
 #define MAXDELIVERYDAYS 20   //max number of delay days to deliver a guitar
 #define DELAYPENALTY 10      //penalty to pay daily if client deliver guitar late
