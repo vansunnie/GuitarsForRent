@@ -1,7 +1,7 @@
 # Guitars For Rent
 Practical assignment for the Programming class (2017/2018) using CodeBlocks(IDE).
 
-This project has a text user interface.
+This project was developed with a text user interface.
 
 ## Introduction:
 
@@ -14,7 +14,7 @@ The store wants to keep a complete record of guitars and customers. It also inte
 
 
 ### Menu:
-In the main menu the user can choose 1 out of 4 options, the first 3 will redirect the user to submenus, and the last one is to finish the program.
+In the main menu the user can choose 1 out of 4 options, the first 3 will redirect the user to submenus, and the last one is to exit the program.
 
 <img src="https://user-images.githubusercontent.com/45792504/114725779-14a73380-9d3d-11eb-8520-a95b06fb14fb.PNG" width="200"  />  
 
